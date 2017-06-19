@@ -1,0 +1,26 @@
+body {
+    font-family: "Lato Light", sans-serif;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.subtitle {
+    margin-top: 40px;
+}
+
+.subtitle-text {
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    color: #8a8a8a;
+    /*margin: 0 auto;*/
+}
+
+.information {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
