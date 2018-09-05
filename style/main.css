@@ -1,10 +1,26 @@
 body {
     font-family: "Lato Light", sans-serif;
+    height: 100%;
+}
+
+html {
+    height: 100%;
 }
 
 #container {
-    margin: 0 auto;
+    /*margin: 0 auto;
     max-width: 1000px;
+    */
+
+    /* The image used */
+    background-image: url("../assets/logo_on_background.png");
+
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */\
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .subtitle {
@@ -23,4 +39,17 @@ body {
     font-size: 20px;
     text-align: center;
     margin-top: 50px;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("assets/logo_on_background.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
