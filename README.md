@@ -1,2 +1,2 @@
-# PrismMotors.com
+# prism.energy
 Landing page
